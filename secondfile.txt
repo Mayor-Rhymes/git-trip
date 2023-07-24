@@ -1,0 +1,6 @@
+This is the secondfile
+
+The addition of this file helps me reinforce what I recently learned.
+
+The secondfile is exactly as the name suggests. it is the second file in this repository
+
